@@ -1786,7 +1786,7 @@ body.palette-edition #regulation #harness-play svg{display:block;flex:none;width
 </style>
 <style id="taiyi-visitor-map-style">
 footer .visitor-map{
-  flex:0 0 auto;width:min(100%,300px);margin-inline-start:auto;
+  flex:0 0 auto;width:min(100%,220px);margin-inline-start:auto;
   color:#193452;
 }
 .visitor-map h2{margin:0 0 8px;font-size:14px;line-height:1.3;color:inherit}
@@ -1799,12 +1799,13 @@ footer .visitor-map{
 .visitor-map .visitor-visual{
   overflow:hidden;border:1px solid #d0e1ec;border-radius:8px;background:#eaf3f9;
 }
-.visitor-map .visitor-visual>svg,.visitor-map .visitor-live-map img{display:block;width:100%;height:auto}
+.visitor-map .visitor-visual>svg{display:block;width:100%;height:auto}
+.visitor-map .visitor-live-map img{display:block;max-width:100%;height:auto;margin-inline:auto}
 .visitor-map .visitor-live-map{display:block}
 .visitor-map .visitor-live-map:focus-visible{outline:2px solid #4b7291;outline-offset:-3px}
 .visitor-map [hidden]{display:none!important}
 @media(max-width:720px){
-  footer .visitor-map{flex-basis:100%;max-width:300px;margin-inline-start:0}
+  footer .visitor-map{flex-basis:100%;max-width:220px;margin-inline-start:0}
 }
 </style>
 </head>
