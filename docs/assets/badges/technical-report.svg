@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155" height="32" viewBox="0 0 155 32">
+  <rect width="155" height="32" rx="6" fill="#3c6383"/>
+  <g fill="none" stroke="#fff" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 9.5h5.5l3 3v10h-8.5zM18.5 9.5v3h3M15.5 16h3.5m-3.5 3h3.5"/>
+  </g>
+  <text x="31" y="16" dominant-baseline="central" fill="#fff" font-family="Verdana, Arial, sans-serif" font-size="12" font-weight="600">Technical Report</text>
+</svg>
