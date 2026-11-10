@@ -42,6 +42,12 @@ Five expert-guided collaborations took Sage-Taiyi's proposals into wet-lab exper
 | Cast magnesium alloy | The alloy reached a mean measured tensile strength of **342 MPa** across repeated tests. |
 | Centrifugal compressor | The optimized design reached **91.5% simulated impeller efficiency** at a pressure ratio of **4.0**. |
 
+## Community
+
+Scan the QR code in WeChat to join the Sage-Taiyi discussion group. This code is valid until November 17, 2026.
+
+<a href="docs/assets/wechat-group-qr.jpg"><img src="docs/assets/wechat-group-qr.jpg" width="280" alt="WeChat QR code for the Sage-Taiyi discussion group"></a>
+
 ## Related Projects
 
 - [**Sage-A1.5**](https://github.com/Alpha-Innovator/Sage-A1.5), a 35B agentic model for engineering tasks, long-horizon search, and scientific research.
