@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://alpha-innovator.github.io/Sage-Taiyi/"><img src="docs/assets/badges/project-website.svg" alt="Project Website"></a>
-  <a href="docs/assets/taiyi-technical-report.pdf"><img src="docs/assets/badges/technical-report.svg" alt="Technical Report (PDF)"></a>
+  <a href="https://arxiv.org/abs/2611.12762"><img src="docs/assets/badges/technical-report.svg" alt="Technical Report on arXiv"></a>
 </p>
 
 ![Sage-Taiyi architecture showing how scientific search and metacognitive regulation inform each other](docs/assets/figures/sage-taiyi-architecture.png)
